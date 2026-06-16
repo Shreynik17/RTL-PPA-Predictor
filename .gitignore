@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Mac clutter
+.DS_Store
+
+# Compiled simulation binaries
+*_sim
+sim
+
+# Mac clutter
+.DS_Store
+
+# Compiled simulation binaries
+*_sim
+sim

@@ -1,0 +1,8 @@
+design,cell_count,logic_depth
+mux2to1,1,1
+adder4,20,9
+comparator4,20,5
+alu4,94,13
+counter4,10,7
+shift_reg4,4,4
+seq_detector,4,4

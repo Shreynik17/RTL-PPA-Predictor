@@ -1,0 +1,8 @@
+design,loc,n_inputs,n_outputs,total_input_bits,total_output_bits,max_width,n_assign,n_always,n_case,is_sequential,n_operators,cell_count,logic_depth
+mux2to1,8,3,1,3,1,1,1,0,0,0,1,1,1
+adder4,9,3,2,9,5,4,1,0,0,0,2,20,9
+comparator4,11,2,3,8,3,4,3,0,0,0,3,20,5
+alu4,22,3,2,11,5,4,1,1,1,0,9,94,13
+counter4,10,2,1,2,4,4,0,1,0,1,1,10,7
+shift_reg4,11,3,1,3,4,4,0,1,0,1,0,4,4
+seq_detector,22,3,1,3,1,1,0,3,1,1,6,4,4
